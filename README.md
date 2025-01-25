@@ -22,7 +22,7 @@ This project is under a [GPL3 License](LICENSE).
 
 ## How it works
 
-This app runs a websocket open on the 9897 port, and wait for a login attempt from whatever service, (example: we use it from a 2FA [Authentik](https://goauthentik.io/) SSO).
+This app runs a websocket open on the 9897 port using a background service, and wait for a login attempt from whatever service, (example: we use it from a 2FA [Authentik](https://goauthentik.io/) SSO).
 
 You receive a notification, then it ask you to approve/reject the attempt. If you want to approve, it use face recognition to verify that you're the right personne, if approved, it sends an 'ok/yes' message to the service.
 
