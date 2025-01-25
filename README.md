@@ -8,12 +8,17 @@ Note : The code can be crappy sometimes, this project has been made during an in
 
 This project is under a [GPL3 License](LICENSE).
 
-<div align="center">
 
-<img align="left" alt="Device handling the app with a request" height="400px" src="docs/request.png" />
-<img align="left" alt="Device handling the app with the verification" height="400px" src="docs/approve.png" />
+<table align="center">
 
-</div>
+<tbody>
+		<tr>
+			<td align="center"><img align="center"  height="500px" src="docs/request.png" target="_blank" /></td>
+			<td align="center"><img align="center"  height="500px" src="docs/approve.png" target="_blank" /></td>
+        </tr>
+    </tbody>
+    
+</table>
 
 ## How it works
 
