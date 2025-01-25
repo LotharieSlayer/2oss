@@ -6,7 +6,7 @@ This project is only a demo for educational purpose and is absolutely not secure
 
 Note : The code can be crappy sometimes, this project has been made during an intensive project week and there were a lot of stuff to do in the same time, not only this application.
 
-This project is under a [GPL3 License](LICENSE).
+This project is under a [GPL3 License](LICENSE) and use the [AlexisL61's Flutter Template](https://github.com/AlexisL61/FlutterTemplate).
 
 
 <table align="center">
