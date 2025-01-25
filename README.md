@@ -4,7 +4,9 @@
 
 This project is only a demo for educational purpose and is absolutely not secured. You can if you want, implement a key ceremony to encrypt all that stuff.
 
-![Device handling the app](docs/device.png)
+<figure markdown>
+![Device handling the app with the verification](docs/approve.png){: style="height:200px"} ![Device handling the app with a request](docs/request.png){: style="height:200px"}
+</figure>
 
 Note : The code can be crappy sometimes, this project has been made during an intensive project week and there were a lot of stuff to do in the same time, not only this application.
 
