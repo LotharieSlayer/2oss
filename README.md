@@ -4,13 +4,16 @@
 
 This project is only a demo for educational purpose and is absolutely not secured. You can if you want, implement a key ceremony to encrypt all that stuff.
 
-<figure markdown>
-![Device handling the app with the verification](docs/approve.png){: style="height:200px"} ![Device handling the app with a request](docs/request.png){: style="height:200px"}
-</figure>
-
 Note : The code can be crappy sometimes, this project has been made during an intensive project week and there were a lot of stuff to do in the same time, not only this application.
 
 This project is under a [GPL3 License](LICENSE).
+
+<div align="center">
+
+<img align="left" alt="Device handling the app with a request" height="400px" src="docs/request.png" />
+<img align="left" alt="Device handling the app with the verification" height="400px" src="docs/approve.png" />
+
+</div>
 
 ## How it works
 
